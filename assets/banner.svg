@@ -1,0 +1,29 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="80" y1="20" x2="1120" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117"/>
+      <stop offset="0.52" stop-color="#161B22"/>
+      <stop offset="1" stop-color="#0D1117"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="240" y1="90" x2="940" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#58A6FF"/>
+      <stop offset="0.5" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#22C55E"/>
+    </linearGradient>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="48"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="360" rx="26" fill="url(#bg)"/>
+  <circle cx="1050" cy="65" r="150" fill="#8B5CF6" fill-opacity="0.16" filter="url(#blur)"/>
+  <circle cx="140" cy="310" r="150" fill="#58A6FF" fill-opacity="0.14" filter="url(#blur)"/>
+  <rect x="44" y="44" width="1112" height="272" rx="22" stroke="url(#accent)" stroke-opacity="0.32"/>
+  <text x="82" y="112" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600" letter-spacing="4">FOUNDER • DEVELOPER • BUILDER</text>
+  <text x="78" y="194" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="700">KAMALESH</text>
+  <text x="82" y="242" fill="url(#accent)" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="600">Zentronix Developers</text>
+  <text x="82" y="282" fill="#C9D1D9" font-family="Arial, Helvetica, sans-serif" font-size="22">Web • Mobile • Full Stack • IoT Solutions</text>
+  <g transform="translate(986 132)">
+    <rect width="112" height="96" rx="22" fill="#161B22" stroke="#30363D"/>
+    <text x="56" y="64" text-anchor="middle" fill="#58A6FF" font-family="monospace" font-size="38" font-weight="700">&lt;/&gt;</text>
+  </g>
+</svg>
