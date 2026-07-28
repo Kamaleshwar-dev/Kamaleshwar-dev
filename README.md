@@ -6,10 +6,10 @@ SETUP:
 -->
 
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Kamalesh — Founder and Lead Developer at Zentronix Developers" />
+  <img src="./assets/banner.svg" width="100%" alt="Kamaleshwar — Founder and Lead Developer at Zentronix Developers" />
 </p>
 
-<h1 align="center">Hi, I'm Kamalesh 👋</h1>
+<h1 align="center">Hi, I'm Kamaleshwar 👋</h1>
 
 <p align="center">
   <strong>Founder & Lead Developer at Zentronix Developers</strong><br/>
@@ -32,7 +32,7 @@ SETUP:
 
 ## About Me
 
-I'm **Kamalesh**, the Founder and Lead Developer of **Zentronix Developers**. I enjoy transforming ideas into practical digital products through thoughtful design, clean code and reliable technology.
+I'm **Kamaleshwar**, the Founder and Lead Developer of **Zentronix Developers**. I enjoy transforming ideas into practical digital products through thoughtful design, clean code and reliable technology.
 
 - Building responsive business websites and full-stack applications
 - Exploring mobile development, AI integrations and scalable backends
