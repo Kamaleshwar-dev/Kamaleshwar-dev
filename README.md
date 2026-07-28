@@ -117,7 +117,7 @@ Sensor-based systems, ESP32 prototypes, Raspberry Pi integrations and automation
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kamaleshwar-dev/Kamaleshwar-dev/output/github-contribution-grid-snake.svg" alt="Contribution snake animation"/>
+  <img src="https://raw.githubusercontent.com/Kamaleshwar-dev/Kamaleshwar-dev/main/dist/github-contribution-grid-snake.svg" alt="Contribution snake animation"/>
 </p>
 
 ## Current Focus
