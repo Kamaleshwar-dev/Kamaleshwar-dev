@@ -17,7 +17,7 @@ SETUP:
 </p>
 
 <p align="center">
-  <a href="mailto:zentronixdevelopers@gmail.com">
+  <a href="mailto:kamaleshy1611@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-0D1117?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
   <a href="https://github.com/Kamaleshwar-dev">
@@ -77,12 +77,12 @@ Sensor-based systems, ESP32 prototypes, Raspberry Pi integrations and automation
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,figma" alt="Frontend skills"/>
+  <img src="https://skillicons.dev/icons?i=html,js" alt="Frontend skills"/>
 </p>
 
 ### Backend & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,postgres" alt="Backend skills"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase" alt="Backend skills"/>
 </p>
 
 ### Tools & Deployment
@@ -103,22 +103,15 @@ Sensor-based systems, ESP32 prototypes, Raspberry Pi integrations and automation
 | **Jewellery Showcase** | Elegant jewellery catalogue with product display and ordering concepts. | HTML / CSS / JavaScript |  · [Live Demo](https://klyrastudio11.github.io/Luxury-Jewelleries/) |
 | **Construction Builder Website** | Professional builder portfolio designed to present projects and generate client enquiries. | HTML / CSS / JavaScript | · [Live Demo](https://zentronixdev.github.io/ConstructionsiteSample/) |
 | **My Portfolio** | Personal portfolio showcasing skills, projects and professional work. | HTML / CSS / JavaScript | · [Live Demo](https://zentrixacademy.github.io/My-Portfolio/) |
-## GitHub Analytics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kamaleshwar-dev&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamaleshwar-dev&layout=compact&hide_border=true" alt="Top languages"/>
-</p>
+## Highlights
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kamaleshwar-dev&hide_border=true" alt="GitHub streak"/>
-</p>
-
-## Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Kamaleshwar-dev/Kamaleshwar-dev/main/dist/github-contribution-grid-snake.svg" alt="Contribution snake animation"/>
-</p>
+- 🚀 Founder of **Zentronix Developers** - Building digital solutions for startups and enterprises
+- 🌐 Full-stack developer with expertise in modern web technologies
+- 💼 Working on real-world projects that solve business problems
+- 🔧 Expert in HTML, JavaScript, Firebase and Node.js
+- 📱 IoT enthusiast with hands-on experience in ESP32 and Arduino
+- 🎯 Focused on delivering quality, scalable, and user-friendly solutions
 
 ## Current Focus
 
@@ -140,7 +133,7 @@ Exploring    Mobile applications, automation and connected IoT systems
 ## Connect With Me
 
 <p align="center">
-  <a href="mailto:zentronixdevelopers@gmail.com"><strong>Email</strong></a>
+  <a href="mailto:kamaleshy1611@gmail.com"><strong>Email</strong></a>
   &nbsp;•&nbsp;
   <a href="https://www.linkedin.com/in/kamaleshwar-y-662b53348?utm_source=share_via&utm_content=profile&utm_medium=member_android"><strong>LinkedIn</strong></a>
   &nbsp;•&nbsp;
